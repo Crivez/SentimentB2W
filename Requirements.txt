@@ -1,4 +1,4 @@
-streamlit==0.79.0
-ktrain==0.26.1
-pandas==1.2.2
-scikit_learn==0.24.1
+streamlit
+ktrain
+pandas
+scikit_learn
