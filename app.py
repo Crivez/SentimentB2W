@@ -7,10 +7,6 @@ import ktrain
 
 #Detector de Sentimento
 
-st.write("""
-Mostrando o sentimento do seu texto
-""")
-
 #Cabeçalho
 st.subheader('Abaixo, uma visualização do seu grau de satisfação de acordo com o texto:')
 
